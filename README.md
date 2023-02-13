@@ -1,8 +1,8 @@
 
-<h1 align="center"> Projeto - Operações Matemáticas </h1>
+<h1 align="center"> Projeto - Biscoito da sorte </h1>
 
 <p align="center">
-Hora de colocar em prática o que foi ensinado na primeira fase do stage 05.
+Hora de colocar em prática o que foi ensinado na primeira fase do stage 05 e o que foi visto nos stages anteriores.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout do projeto
 
-![PRO2-1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9858101-d395-4bf3-a9e7-d1cbec1e093e/Biscoito_da_Sorte.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230213T015954Z&X-Amz-Expires=86400&X-Amz-Signature=38b55ec6185ee854c69013a306c3340b991d0f1f19b614bd1fdce8677c31a96d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![PRO2-1](https://user-images.githubusercontent.com/94652702/218363730-55601803-bc21-4fce-949c-b27bdbe6bb80.png)
+<br>
+<br>
+
+![PRO2-1](https://user-images.githubusercontent.com/94652702/218363797-62de348f-f459-4876-9943-dfb474fb4f97.png)
+
 <br>
 Link do Figma: 
 <br>
@@ -54,7 +59,7 @@ https://www.figma.com/file/SQogdymNTXHyzf3uOrVpXu/Biscoito-da-Sorte-(Community)?
 <br>
 
 ## Site online
-
+https://biscoito-da-sorte-beta.vercel.app/
 ---
 
 Feito com 🧡 by Taiane Karine.
