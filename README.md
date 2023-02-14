@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Biscoito da sorte </h1>
+<h1 align="center"> Projeto - Biscoito da sorte 🤞</h1>
 
 <p align="center">
 Hora de colocar em prática o que foi ensinado na primeira fase do stage 05 e o que foi visto nos stages anteriores.
